@@ -1,0 +1,9 @@
+Features
+🏰 Multiple adventure levels
+👑 Boss battles
+🪙 Coin collection system
+⚡ Character upgrades
+🏆 Achievements
+💾 Save progress
+📱 Mobile support
+🎨 Pixel-art graphics
